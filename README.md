@@ -1,6 +1,6 @@
 ### MY ATTEMPT TO BUILD 50 MACHINE LEARNING PROJECTS FOR BEGINNERS AS A BEGINNER
 
-- Project 1: Iris Flowers Classification COMPLETED
+- ~Project 1: Iris Flowers Classification~ *COMPLETED*
 - Project 2: Music Recommendation System
 - Project 3: Sales Prediction 
 - Project 4: Home Value Prediction 
