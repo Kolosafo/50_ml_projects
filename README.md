@@ -3,7 +3,7 @@
 - ~Project 1: Iris Flowers Classification~ *COMPLETED*
 - Project 2: Music Recommendation System
 - ~Project 3: Sales Prediction~ *COMPLETED*
-- Project 4: Home Value Prediction 
+- ~Project 4: Home Value Prediction~ *COMPLETED*
 - Project 5: Stock Prices Predictor  
 - Project 6: Wine Quality Prediction 
 - Project 7: Movie Recommender System 
